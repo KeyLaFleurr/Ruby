@@ -50,4 +50,9 @@ class MetadataController extends Controller
         return $this->renderPartial('index');
     }
 
+    public function actionIndikator()
+    {
+        return $this->renderPartial('index');
+    }
+
 }
