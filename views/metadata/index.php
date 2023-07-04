@@ -12,9 +12,9 @@
 
 <body>
   <img src="/images/logo.png" width="150">
-  <table>
+  <table rules="all" border="1" style="float:right">
     <tr>
-      <th> ㅤㅤ ㅤ ㅤㅤㅤㅤㅤ </th>
+      <th>MS-Keg</th>
     </tr>
   </table>
   <h1>
@@ -25,7 +25,7 @@
   </h1>
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th align="left" width="60%">Judul Kegiatan :</th>
+      <th align="left" width="50%">Judul Kegiatan :</th>
       <th align="right">Tahun : ㅤㅤ ㅤ</th>
     </tr>
     <tr>
@@ -51,8 +51,8 @@
 
       <td><b>Sektor Kegiatan : </b>
         <ul style="list-style-type: none;">
-          <li>Pertanian dan perikanan</li>
-          <li>Demografi dan Kependudukan</li>
+          <li>Pertanian dan perikanan       -1</li>
+          <li>Demografi dan Kependudukan        -2</li>
           <li>Pembangunan</li>
           <li>Proyeksi Ekonomi</li>
           <li>Pendidikan dan Pelatihan</li>
@@ -91,8 +91,8 @@
       </td>
 
     </tr>
-    <tr>
-      <th align="center" colspan="2">I. PENYELENGGARA</th>
+    <tr style="background-color: opacity: 20%;">
+      <th align="center" colspan="2" style="">I. PENYELENGGARA</th>
 </tr>
 <tr>
       <th align="left" colspan="2"><b>1.1 Instansi Penyelenggara:</b></th>
