@@ -29,7 +29,7 @@
       <th align="right">Tahun : ㅤㅤ ㅤ</th>
     </tr>
     <tr>
-      <th align="left" colspan="2"><b>Kode Kegiatan (diisi oleh petugas) :</b></th>
+      <td colspan="2"><b>Kode Kegiatan (diisi oleh petugas) :</b><br></td>
     </tr>
     <tr>
       <td colspan="1"><b>Cara Pengumpulan Data :</b>
