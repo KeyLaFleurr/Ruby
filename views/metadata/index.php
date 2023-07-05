@@ -25,7 +25,7 @@
   </h1>
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th align="left" width="50%">Judul Kegiatan :</th>
+      <th align="left" width="50%" height="80px">Judul Kegiatan :</th>
       <th align="right">Tahun : ㅤㅤ ㅤ</th>
     </tr>
     <tr>
