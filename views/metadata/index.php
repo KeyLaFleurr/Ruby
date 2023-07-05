@@ -62,14 +62,14 @@
     <tr>
       <td colspan="1"><b>Cara Pengumpulan Data :</b>
         <ul style="list-style-type: none;">
-        <li>Pencacahan Lengkap -1</li>
+          <li>Pencacahan Lengkap -1</li>
           <li>Survei -2</li>
         </ul>
       </td>
 
       <td>
         <ul style="list-style-type: none;"> <br>
-        <li>Kompilasi Produk Administrasi -3</li>
+          <li>Kompilasi Produk Administrasi -3</li>
           <li>Cara lain sesuai dengan perkembangan TI -4</li>
         </ul>
       </td>
@@ -124,7 +124,199 @@
     <tr>
       <th align="left" colspan="2"><b>1.1 Instansi Penyelenggara:</b></th>
     </tr>
+  </table><br>
+
+  <table align="center" width="80%" rules="all" border="1" id="example">
+    <tr>
+      <th colspan="8" height="50px"></th>
+    </tr>
   </table>
+
+  <table align="center" width="80%" rules="all" border="1" id="example">
+    <tr>
+      <th colspan="8" align="left">3.3 Rencana Jadwal Kegiatan:
+
+        <table align="center" width="95%" rules="all" border="1" id="example">
+          <tr>
+            <br>
+            <th height="40px"></th>
+            <th width="21%" colspan="3"> AwaL <br> (tgl/bln/thn)</th>
+            <th width="4%"></th>
+            <th width="21%" colspan="3"> Akhir <br> (tgl/bln/thn)</th>
+
+          </tr>
+
+          <tr>
+            <th align="left" height="30px">A. Perencanaan Awal</th>
+            <th colspan="3"></th>
+            <th></th>
+            <th colspan="3"></th>
+          </tr>
+
+          <tr>
+            <td height="30px">1. Perencanaan Kegiatan</td>
+            <th width="7%"></th>
+            <th width="7%"></th>
+            <th width="7%"></th>
+            <td align="center" width="4%">s.d</td>
+            <th width="7%"></th>
+            <th width="7%"></th>
+            <th width="7%"></th>
+          </tr>
+
+          <tr>
+            <td height="30px"> 2. Desain </td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <th align="left" height="30px">B. Pengumpulan</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center"></td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <td height="30px">3. Pengumpulan Data</td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <th align="left" height="30px">C. Pemeriksaan</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center"></td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <td height="30px">4. Pengolahan Data</td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <th align="left" height="30px">D. Penyebarluasan</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center"></td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <td height="30px">5. Analisis</td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <td height="30px">6. Diseminasi Hasil</td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+          <tr>
+            <td height="30px">7. Evaluasi</td>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td align="center">s.d</td>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+
+        </table>
+      </th>
+    </tr>
+
+    <tr>
+      <th align="left">3.4 Variabel (Karakteristik) yang Dikumpulkan:
+
+        <table align="center" width="95%" rules="all" border="1" id="example">
+          <tr>
+            <th height="50px" width="4%">No.</th>
+            <th width="23%">Nama Variabel <br> (Karakteristik) </th>
+            <th width="20%">Konsep</th>
+            <th width="20%">Definisi</th>
+            <th width="23%">Refresnsi Waktu <br> (Periode Waktu)</th>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+        </table>
+
+      </th>
+    </tr>
+  </table>
+
+  <table align="center" width="80%" rules="all" border="1" id="example">
+      <tr>
+        <th class="mark">IV. DESAIN KEGIATAN</th>
+      </tr>
+    </table>
+
+
+
 </body>
 
 </html>
