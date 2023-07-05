@@ -26,10 +26,7 @@
     .judul {
       text-align: left;
       margin-bottom: 10%;
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
     }
 
     .tahun {
@@ -57,7 +54,7 @@
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
       <th class="judul" width="50%" height="80px">Judul Kegiatan :</th>
-      <th class="tahun">Tahun : ㅤㅤ ㅤ</th>
+      <th class="tahun">Tahun : </th>
     </tr>
     <tr>
       <td colspan="2" height="50px"><b>Kode Kegiatan (diisi oleh petugas) :</b><br></td>
