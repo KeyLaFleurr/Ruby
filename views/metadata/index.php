@@ -7,14 +7,42 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <style>
+    .mark {
+      background-color: gainsboro;
+    }
+
+    .left {
+      padding-left: 110px;
+    }
+
+    .right {
+      position: absolute;
+      right: 170px;
+      width: 100px;
+
+    }
+
+    .judul {
+      text-align: left;
+      margin-bottom: 10%;
+
+    }
+
+    .tahun {
+      float: right;
+      margin: 10px;
+      height: 30px;
+    }
+  </style>
 
 </head>
 
 <body>
-  <img src="/images/logo.png" width="150">
-  <table>
+  <img src="/images/logo.png" width="150" class="left">
+  <table rules="all" border="1" class="right" style="">
     <tr>
-      <th> ㅤㅤ ㅤ ㅤㅤㅤㅤㅤ </th>
+      <th>MS-Keg</th>
     </tr>
   </table>
   <h1>
@@ -25,25 +53,24 @@
   </h1>
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th align="left" width="50%" height="80px">Judul Kegiatan :</th>
-      <th align="right">Tahun : ㅤㅤ ㅤ</th>
+      <th class="judul" width="50%" height="80px">Judul Kegiatan :</th>
+      <th class="tahun">Tahun : </th>
     </tr>
     <tr>
-      <td colspan="2"><b>Kode Kegiatan (diisi oleh petugas) :</b><br></td>
+      <td colspan="2" height="50px"><b>Kode Kegiatan (diisi oleh petugas) :</b><br></td>
     </tr>
     <tr>
       <td colspan="1"><b>Cara Pengumpulan Data :</b>
         <ul style="list-style-type: none;">
-          <li>Kompilasi Produk Administrasi</li>
-          <li>Cara lain sesuai dengan perkembangan TI</li>
+        <li>Pencacahan Lengkap -1</li>
+          <li>Survei -2</li>
         </ul>
       </td>
 
       <td>
         <ul style="list-style-type: none;"> <br>
-          <li>Pencacahan Lengkap</li>
-          <li>Survei</li>
-
+        <li>Kompilasi Produk Administrasi -3</li>
+          <li>Cara lain sesuai dengan perkembangan TI -4</li>
         </ul>
       </td>
     </tr>
@@ -51,17 +78,17 @@
 
       <td><b>Sektor Kegiatan : </b>
         <ul style="list-style-type: none;">
-          <li>Pertanian dan perikanan</li>
-          <li>Demografi dan Kependudukan</li>
-          <li>Pembangunan</li>
-          <li>Proyeksi Ekonomi</li>
-          <li>Pendidikan dan Pelatihan</li>
-          <li>Lingkungan</li>
-          <li>Keuangan</li>
-          <li>Globalisasi</li>
-          <li>Kesehatan</li>
-          <li>Industri dan Jasa</li>
-          <li>Teknologi Informasi Dan Komunikasi</li>
+          <li>Pertanian dan perikanan -1</li>
+          <li>Demografi dan Kependudukan -2</li>
+          <li>Pembangunan -3</li>
+          <li>Proyeksi Ekonomi -4</li>
+          <li>Pendidikan dan Pelatihan -5</li>
+          <li>Lingkungan -6</li>
+          <li>Keuangan -7</li>
+          <li>Globalisasi -8</li>
+          <li>Kesehatan -9</li>
+          <li>Industri dan Jasa -10</li>
+          <li>Teknologi Informasi Dan Komunikasi -11</li>
         </ul>
       </td>
       <td>
@@ -92,11 +119,11 @@
 
     </tr>
     <tr>
-      <th align="center" colspan="2">I. PENYELENGGARA</th>
-</tr>
-<tr>
+      <th align="center" colspan="2" class="mark"><b>I. PENYELENGGARA</b></th>
+    </tr>
+    <tr>
       <th align="left" colspan="2"><b>1.1 Instansi Penyelenggara:</b></th>
-</tr>
+    </tr>
   </table>
 </body>
 
