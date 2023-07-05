@@ -126,6 +126,9 @@
     </tr>
   </table><br>
 
+
+
+  <!-- HALAMAN 84 .tabel 3.3 .tabel 3.4 -->
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
       <th colspan="8" height="50px"></th>
