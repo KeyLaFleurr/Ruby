@@ -783,6 +783,10 @@
        
         
 </tr>
+<tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
 <table  border="1" width="80%" rules="none" align="center">
     <tr>
         <td width="2%"><B>4.4.<B></td>
@@ -824,9 +828,11 @@
     </tr>
        
         
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
 </tr>
-
-
 <table align="center" width="80%" rules="all" border="1" >
     
     <tr>
@@ -926,7 +932,10 @@
         
     </tr>
     
-       
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
         
 
     <table  border="1" width="80%" rules="none" align="center">
@@ -996,6 +1005,10 @@
        
         
     </tr>
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
     
     <table  border="1" width="80%" rules="none" align="center">
     <tr>
@@ -1048,11 +1061,399 @@
         <td>Lainnya (Sebutkan) .........................</td>
         <td>-8</td>
     </tr>
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
     
 
 <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th colspan="8" height="30px"></th>
+      <th  height="30px"></th>
+    </tr>
+    <!-- akhir halaman 85 -->
+    <!-- AWAL HALAMAN 86-->
+    <table align="center" width="80%" rules="all" border="1" bgcolor="gainsboro">
+    <tr>
+      <th height="60px">V. DESAIN SAMPEL<BR>Diisi jika cara pengumpulan data adalah survei sebagian</th>
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.1.<B></td>
+        <td width="33%"><B>Jenis Rancangan Sampel :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Singel Stage/Phase</td>
+        <td>-1</td>
+       
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Multi Stage/Phase</td>
+        <td>-2</td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.2.<B></td>
+        <td width="33%"><B>Metode Pemilihan Sampel Tahap Terakhir :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Sampel Probabilitas</td>
+        <td>-1</td>
+        <td> ➡ Ke R.5.3.a</td>
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Sampel NonProbabilitas</td>
+        <td>-2</td>
+        <td> ➡ Ke R.5.3.b</td>
+
+        
+        
+    </tr>
+       
+        
+    <tr>
+        <td></td>
+        <td>&emsp;</td>
+    </tr>
+
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.3.<B></td>
+        <td width="33%"><B>Jika"Sampel Probabilitas"(R.5.2. berkode 1), Metode Yang Digunakan:<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Simple Random Sampling</td>
+        <td>-1</td>
+        <td></td>
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Systematic Random Sampling</td>
+        <td>-2</td>
+        <td></td>
+
+        
+        
+    </tr>
+       
+    <tr>
+        <td></td>
+        <td>Stratified Random Sampling</td>
+        <td>-3</td>
+        <td>➡ Ke R.5.4.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Cluster Sampling</td>
+        <td>-4</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Multi Stage Sampling</td>
+        <td>-5</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Jika"Sampel Probabilitas"(R.5.2. berkode 2), Metode Yang Digunakan:<b></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Quota Sampling </td>
+        <td>-6</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Accidental Sampling</td>
+        <td>-7</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Purposive Sampling</td>
+        <td>-8</td>
+        <td>➡ Ke R.5.7.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Snowball Sampling</td>
+        <td>-9</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Saturation Sampling</td>
+        <td>-10</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.4.<B></td>
+        <td width="33%"><B>Kerangka Sampel Tahap Akhir<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>List Frame</td>
+        <td>-1</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Area Frame</td>
+        <td>-2</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.4.<B></td>
+        <td width="33%"><B>Kerangka Sampel Tahap Akhir<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.5.<B></td>
+        <td width="33%"><B>Fraksi Sampel Keseluruhan :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.6.<B></td>
+        <td width="33%"><B>Nilai Perkiraan Sampling Error Variabel Utama :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.7.<B></td>
+        <td width="33%"><B>Unit Sampel :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>5.8.<B></td>
+        <td width="33%"><B>Unit Observasi :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <td></td>
+        <td>&emsp;</td>
     </tr>
 </body>
 
