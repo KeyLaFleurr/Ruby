@@ -126,20 +126,18 @@
     </tr>
   </table><br>
 
-
-
-  <!-- HALAMAN 84 .tabel 3.3 .tabel 3.4 -->
-  <table align="center" width="80%" rules="all" border="1" id="example">
+    <!-- HALAMAN 84 .tabel 3.3 .tabel 3.4 & 4.1 4.2 -->
+<table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
       <th colspan="8" height="50px"></th>
     </tr>
   </table>
-
+    <!--Tabel 3.3-->
   <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th colspan="8" align="left">3.3 Rencana Jadwal Kegiatan:
+      <th colspan="8" align="left"><br>3.3 Rencana Jadwal Kegiatan:
 
-        <table align="center" width="95%" rules="all" border="1" id="example">
+        <table align="center" style="margin-top: 10px;" width="95%" rules="all" border="1" id="example">
           <tr>
             <br>
             <th height="40px"></th>
@@ -271,9 +269,9 @@
     </tr>
 
     <tr>
-      <th align="left">3.4 Variabel (Karakteristik) yang Dikumpulkan:
-
-        <table align="center" width="95%" rules="all" border="1" id="example">
+       <!--Tabel 3.4-->
+      <th align="left"><br>3.4 Variabel (Karakteristik) yang Dikumpulkan: <br>
+        <table align="center"  style="margin-top: 10px;" width="95%" rules="all" border="1" id="example">
           <tr>
             <th height="50px" width="4%">No.</th>
             <th width="23%">Nama Variabel <br> (Karakteristik) </th>
@@ -310,16 +308,70 @@
 
       </th>
     </tr>
+    <tr>
+      <th class="mark">IV. DESAIN KEGIATAN</th>
+    </tr>
+
+    <tr>
+       <!--Tabel 4.1-->
+      <th align="left" colspan="2"><br>4.1 Kegiatan ini dilakukan:<br>
+        <table align="center" style="margin-bottom: 10px;" width="96%" rules="none" border="0" id="example">
+          <tr>
+            <br>
+            <td width="25%" height="">Hanya Sekali</td>
+            <td width="25%">-1 --> <i>langsung ke R.3.3.</i></td>
+            <td width="25%">Berulang</td>
+            <td width="5%">-2</td>
+            <td>
+              <table align="right" style="" width="33%" rules="all" border="1" id="example">
+                <tr>
+                  <td height="60px"></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+      </th>
   </table>
-
-  <table align="center" width="80%" rules="all" border="1" id="example">
-      <tr>
-        <th class="mark">IV. DESAIN KEGIATAN</th>
-      </tr>
-    </table>
-
-
-
+  <tr>
+     <!--Tabel 4.2-->
+    <th align="left"><br>4.2 Jika "berulang" (R.4.1. berkode 2), Frekuensi Penyelenggaran: 
+    <table align="center" style="margin-top: 10px; margin-bottom: 20px;" width="96%" rules="none" border="0" id="example">
+    <tr>
+    <td width="25%">Harian</td>
+    <td width="25%">-1</td>
+    <td width="25%">Empat Bulanan</td>
+    <td width="5%">-5</td>
+    <td rowspan="4">
+    <table align="right" style="margin-bottom: 20px;" width="33%" rules="all" border="1" id="example">
+                <tr>
+                  <td height="60px"></td>
+                </tr>
+              </table>
+    </td>
+    </tr>
+    <tr>
+    <td>Mingguan</td>
+    <td>-2</td>
+    <td>Semesteran</td>
+    <td>-6</td>
+    </tr>
+    <tr>
+    <td>Bulanan</td>
+    <td>-3</td>
+    <td>Tahunan</td>
+    <td>-7</td>
+    </tr>
+    <tr>
+    <td>Triwulanan</td>
+    <td>-4</td>
+    <td>Dua Tahunan</td>
+    <td>-8</td>
+    </tr>
+  </table>
+    </th>
+  </tr>
+  </table>
+  
 </body>
 
 </html>
