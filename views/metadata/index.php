@@ -669,7 +669,7 @@
           <tr>
             <br>
             <td width="25%" height="">Hanya Sekali</td>
-            <td width="25%">-1 --> <i>langsung ke R.3.3.</i></td>
+            <td width="25%">-1 ➡ <i>langsung ke R.3.3.</i></td>
             <td width="25%">Berulang</td>
             <td width="5%">-2</td>
             <td>
@@ -737,33 +737,93 @@
     <tr>
       <th colspan="8" height="30px"></th>
     </tr>
-    <table align="center" rules="none" width="80%"   border="1">
+    <table  border="1" width="80%" rules="none" align="center">
     <tr>
-     <th align="left" colspan="2" >4.3. Tipe Pengumpulan Data :</th>
+        <td width="2%"><B>4.3.<B></td>
+        <td width="33%"><B>Tipe Pengumpulan Data :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
     </tr>
+
     <tr>
-        <td align="left" width="50%"><br>&emsp;Longitudinal Panel</td>
-        <td><br>-1</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;LongitudinalCross Sectional</td>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Longitudinal Panel</td>
+        <td>-1</td>
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>LongitudinalCross Sectional</td>
         <td>-2</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Cross Sectional</td>
+        
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Cross Sectional</td>
         <td>-3</td>
+       
+        
 </tr>
-<table align="center" rules="none" width="80%"   border="1">
+<table  border="1" width="80%" rules="none" align="center">
     <tr>
-     <th align="left" colspan="2" >4.4. Cakupan Wilayah Pengumpulan Data :</th>
+        <td width="2%"><B>4.4.<B></td>
+        <td width="33%"><B>Cakupan Wilayah Pengumpulan Data :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
     </tr>
+
     <tr>
-        <td align="left" width="50%"><br>&emsp;Seluruh Wilayah Indonesia</td>
-        <td><br>-1 ➡ Langsung Ke R.4.6.</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Sebagian Wilayah Indonesia</td>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Seluruh Wilayah Indonesia</td>
+        <td>-1</td>
+        <td> ➡ Langsung Ke R.4.6.</td>
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Sebagian Wilayah Indonesia</td>
         <td>-2</td>
+        
+        
+    </tr>
+       
+        
 </tr>
 
 
@@ -805,104 +865,191 @@
   </table>
   </th>
   </tr>
-  <table align="center" rules="none" width="80%"   border="1">
+  <table  border="1" width="80%" rules="none" align="center">
     <tr>
-     <th align="left" colspan="2" >4.6. Metode Pengumpulan Data :</th>
+        <td width="2%"><B>4.6.<B></td>
+        <td width="33%"><B>Metode Pengumpulan Data :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
     </tr>
-    <tr>
-        <td align="left" width="50%"><br>&emsp;Wawancara</td>
-        <td><br>-1</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Mengisi Kuesioner Sendiri(Swancacah)</td>
-        <td>-2</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Pengamatan(Observasi)</td>
-        <td>-4</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Pengumpulan Data Sekunder</td>
-        <td>-8</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
-        <td>-16</td>
-</tr>
-<table align="center" rules="none" width="80%"   border="1">
-    <tr>
-     <th align="left" colspan="2" >4.7. Sarana Pengumpulan Data :</th>
-    </tr>
-    <tr>
-        <td align="left" width="50%"><br>&emsp;Peper-assisted Personal Interviewing (PAPI)</td>
-        <td><br>-1</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Computer-assisted Personal Interviewing (CAPI)</td>
-        <td>-2</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Computer-assisted Telephones Interviewing (CATI)</td>
-        <td>-4</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Computer Aided Web Interviewing (CAWI)</td>
-        <td>-8</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Mail</td>
-        <td>-16</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
-        <td>-32</td>
-</tr>
-    <table align="center" rules="none" width="80%"   border="1">
-    <tr>
-     <th align="left" colspan="2" >4.8. Unit Pengumpulan Data :</th>
-    </tr>
-    <tr>
-        <td align="left" width="50%"><br>&emsp;Individu</td>
-        <td><br>-1</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Rumah tangga</td>
-        <td>-2</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Usaha/perusahaan</td>
-        <td>-4</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
-        <td>-8</td>
-</tr>
 
-<table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
-      <th colspan="8" height="50px"></th>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
     </tr>
-    <table align="center" rules="none" width="80%"   border="1">
+    
     <tr>
-     <th align="left" colspan="2" >4.8. Unit Pengumpulan Data :</th>
-    </tr>
-    <tr>
-        <td align="left" width="50%"><br>&emsp;Individu</td>
-        <td><br>-1</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Rumah tangga</td>
-        <td>-2</td>
-</tr>
-<tr>
-        <td align="left" width="50%">&emsp;Usaha/perusahaan</td>
-        <td>-4</td>
-</tr>
-<tr>
-        <td align="left">&emsp;Lainnya (Sebutkan) .........................</td>
-        <td>-9</td>
+        <td></td>
+        <td>Wawancara</td>
+        <td>-1</td>
        
-</tr>
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Mengisi Kuesioner Sendiri(Swancacah)</td>
+        <td>-2</td>
+        
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pengamatan(Observasi)</td>
+        <td>-4</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pengumpulan Data Sekunder</td>
+        <td>-8</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lainnya (Sebutkan) .........................</td>
+        <td>-16</td>
+       
+        
+    </tr>
+    
+       
+        
+
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>4.7.<B></td>
+        <td width="33%"><B>Sarana Pengumpulan Data :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Peper-assisted Personal Interviewing (PAPI)</td>
+        <td>-1</td>
+       
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Computer-assisted Personal Interviewing (CAPI)</td>
+        <td>-2</td>
+        
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Computer-assisted Telephones Interviewing (CATI)</td>
+        <td>-4</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Computer Aided Web Interviewing (CAWI)</td>
+        <td>-8</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mail</td>
+        <td>-16</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lainnya (Sebutkan) .........................</td>
+        <td>-32</td>
+       
+        
+    </tr>
+    
+    <table  border="1" width="80%" rules="none" align="center">
+    <tr>
+        <td width="2%"><B>4.8.<B></td>
+        <td width="33%"><B>Unit Pengumpulan Data :<B></td>
+        <td width="2%"></td>
+        <td width="33%"></td>
+        <td width="9%" rowspan="5">
+            <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                <tr>
+                  <td height="45px"></td>
+                </tr>
+            </table>
+        </td>
+        <td width="1%"></td>
+    </tr>
+
+    <tr>
+        <td>&emsp;</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    
+    <tr>
+        <td></td>
+        <td>Individu</td>
+        <td>-1</td>
+       
+        
+    </tr>
+
+    <tr>
+        <td></td>
+        <td>Rumah tangga</td>
+        <td>-2</td>
+        
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Usaha/perusahaan</td>
+        <td>-4</td>
+       
+        
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lainnya (Sebutkan) .........................</td>
+        <td>-8</td>
+    </tr>
+    
+
 <table align="center" width="80%" rules="all" border="1" id="example">
     <tr>
       <th colspan="8" height="30px"></th>
