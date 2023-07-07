@@ -26,10 +26,7 @@
     .judul {
       text-align: left;
       margin-bottom: 10%;
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
     }
 
     .tahun {
