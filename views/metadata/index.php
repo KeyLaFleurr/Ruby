@@ -1455,7 +1455,10 @@
         <td></td>
         <td>&emsp;</td>
     </tr>
-</body>
+    <table align="center" width="80%" rules="all" border="1" bgcolor="gainsboro">
+    <tr>
+      <th height="50px">VI. PENGUMPULAN DATA</th>
+    </tr>
 
 </html>
 </body>
