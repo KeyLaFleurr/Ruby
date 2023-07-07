@@ -722,7 +722,194 @@
   </tr>
   </table>
   <!--AKHIR HALAMAN 84-->
-  
+  <!--AWAL HALAMAN 85-->
+  <html>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+    <table align="center" width="80%" rules="all" border="1" id="example">
+    <tr>
+      <th colspan="8" height="30px"></th>
+    </tr>
+    <table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.3. Tipe Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Longitudinal Panel</td>
+        <td><br>-1</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;LongitudinalCross Sectional</td>
+        <td>-2</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Cross Sectional</td>
+        <td>-3</td>
+</tr>
+<table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.4. Cakupan Wilayah Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Seluruh Wilayah Indonesia</td>
+        <td><br>-1 ➡ Langsung Ke R.4.6.</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Sebagian Wilayah Indonesia</td>
+        <td>-2</td>
+</tr>
+
+
+<table align="center" width="80%" rules="all" border="1" >
+    
+    <tr>
+      <th align="left">4.5.  Variabel (Karakteristik) yang Dikumpulkan:
+
+        <table align="center" width="95%" rules="all" border="1">
+          <tr>
+            <th height="50px" width="4%">No.</th>
+            <th width="48%">Provinsi</th>
+            <th width="48%">Kabupaten/Kota</th>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td height="30px"></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+  </table>
+  </th>
+  </tr>
+  <table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.6. Metode Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Wawancara</td>
+        <td><br>-1</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Mengisi Kuesioner Sendiri(Swancacah)</td>
+        <td>-2</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Pengamatan(Observasi)</td>
+        <td>-4</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Pengumpulan Data Sekunder</td>
+        <td>-8</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
+        <td>-16</td>
+</tr>
+<table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.7. Sarana Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Peper-assisted Personal Interviewing (PAPI)</td>
+        <td><br>-1</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Computer-assisted Personal Interviewing (CAPI)</td>
+        <td>-2</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Computer-assisted Telephones Interviewing (CATI)</td>
+        <td>-4</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Computer Aided Web Interviewing (CAWI)</td>
+        <td>-8</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Mail</td>
+        <td>-16</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
+        <td>-32</td>
+</tr>
+    <table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.8. Unit Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Individu</td>
+        <td><br>-1</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Rumah tangga</td>
+        <td>-2</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Usaha/perusahaan</td>
+        <td>-4</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Lainnya (Sebutkan) .........................</td>
+        <td>-8</td>
+</tr>
+
+<table align="center" width="80%" rules="all" border="1" id="example">
+    <tr>
+      <th colspan="8" height="50px"></th>
+    </tr>
+    <table align="center" rules="none" width="80%"   border="1">
+    <tr>
+     <th align="left" colspan="2" >4.8. Unit Pengumpulan Data :</th>
+    </tr>
+    <tr>
+        <td align="left" width="50%"><br>&emsp;Individu</td>
+        <td><br>-1</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Rumah tangga</td>
+        <td>-2</td>
+</tr>
+<tr>
+        <td align="left" width="50%">&emsp;Usaha/perusahaan</td>
+        <td>-4</td>
+</tr>
+<tr>
+        <td align="left">&emsp;Lainnya (Sebutkan) .........................</td>
+        <td>-9</td>
+       
+</tr>
+<table align="center" width="80%" rules="all" border="1" id="example">
+    <tr>
+      <th colspan="8" height="30px"></th>
+    </tr>
+</body>
+
+</html>
 </body>
 
 </html>
