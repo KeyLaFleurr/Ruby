@@ -1460,6 +1460,424 @@
       <th height="50px">VI. PENGUMPULAN DATA</th>
     </tr>
 
+        <!--87 moas-->
+        <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.1.</b></td>
+            <td width="33%"><b>Apakah Melakukan Uji Coba (<i>Pilot Survey</i>)?</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Ya</td>
+            <td>- 1</td>
+            <td></td>          
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Tidak</td>
+            <td>- 2</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.2.</b></td>
+            <td width="33%"><b>Metode Pemeriksaan Kualitas Pengumpulan Data:</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Kunjungan Kembali (<i>revisit</i>)</td>
+            <td>- 1</td>
+            <td>Task Force &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- 1 </td>  
+        <tr>
+            <td></td>
+            <td>Supervisi</td>
+            <td>- 2</td>
+            <td>Lainnya (Sebutkan)......................................... &emsp;- 8</td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.3.</b></td>
+            <td width="33%"><b>Apakah Melakukan Penyesuaian Nonrespon?</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Ya</td>
+            <td>- 1</td>
+            <td></td>          
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Tidak</td>
+            <td>- 2</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td>
+                <b><p align="center">Pertanyaan 6.4 - 6.7 ditanyakan jika sarana pengumpulan data adalah PAPI, CAPI, atau CATI (Pilihlah R.4.7.kode 1, 2, dan/atau 4 lingkarai)</p></b>
+            </td>
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.4.</b></td>
+            <td width="33%"><b>Petugas Pengumpul Data:</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Staf instansi Penyelenggara</td>
+            <td>- 1</td>
+            <td></td>          
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Mitra/tenaga kontrak</td>
+            <td>- 2</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Staf instansi Penyelenggara dan mitra/tenaga kontrak</td>
+            <td>- 3</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.5.</b></td>
+            <td width="33%"><b>Pertayaan Pendidikan Terendah Petugas Pengupulan Data:</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td> ≤ SMP</td>
+            <td>- 1</td>
+            <td></td>          
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>SMA/SMK</td>
+            <td>- 2</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Diploma I/II/III</td>
+            <td>- 3</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Diploma IV/S1/S2/S3</td>
+            <td>- 4</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.6.</b></td>
+            <td width="33%"><b>jumlah Petugas:</b></td>
+            <td width="5%"></td>
+            <td width="30%"></td>
+            <td width="9%" rowspan="5"></td>
+            <td width="1%"></td>
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>          
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Supervisor/penyelia/pengawasan</td>
+            <td>.... orang</td>
+            <td></td>          
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>Pengumpulan data/enumerator</td>
+            <td>.... orang</td>
+            <td></td>           
+        </tr>
+
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>   
+        </tr>
+    </table>
+
+    <table  border="1" width="80%" rules="none" align="center">
+        <tr>
+            <td width="2%"><b>6.7.</b></td>
+            <td width="33%"><b>Apakah Melakukan Pelatihan Petugas?</b></td>
+            <td width="2%"></td>
+            <td width="33%"></td>
+            <td width="9%" rowspan="5">
+                <table align="right" style="margin-bottom: 20px;" width="45px" rules="none" border="1" id="example">
+                    <tr>
+                      <td height="45px"></td>
+                    </tr>
+                </table>
+            </td>
+            <td width="1%"></td>
+        </tr>
+    
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        
+        <tr>
+            <td></td>
+            <td>Ya</td>
+            <td>- 1</td>
+            <td></td>
+            
+        </tr>
+    
+        <tr>
+            <td></td>
+            <td>Tidak</td>
+            <td>- 2</td>
+            <td></td>
+            
+        </tr>
+    
+        <tr>
+            <td>&emsp;</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+        </tr>
+    </table>
+
+    <table height="5%" align="center" width="80%" rules="none" border="1"  bgcolor="gainsboro">
+        <tr>
+            <td align="center"><b>VII. PENGOLAHAN DAN ANALISIS</b></td>
+        </tr>
+    </table>
+
+    <table border="1" width="80%" rules="all" align="center">
+        <tr>
+            <td> <b>7.1. Tahapan Pengoolahan Data : </b>
+                <table border="0" width="96%" rules="none" align="center">
+                <tr>
+                    <td width="25%">Penyutingan <i>(Editing)</i></td>
+                    <td width="3%">Ya</td>
+                    <td width="10%">-1</td>
+                    <td width="5%">Tidak</td>
+                    <td width="2%">-2</td>
+                    <td>
+                        <table align="right" style="margin-bottom: 0px;" width="35px" rules="all" border="1" id="example">
+                            <tr>
+                            <td height="35px"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="25%">Penyandian <i>(Coding)</i></td>
+                    <td width="3%">Ya</td>
+                    <td width="10%">-1</td>
+                    <td width="5%">Tidak</td>
+                    <td width="2%">-2</td>
+                    <td>
+                        <table align="right" style="margin-bottom: 0px;" width="35px" rules="all" border="1" id="example">
+                            <tr>
+                            <td height="35px"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="25%">Data <I>Entry</I></td>
+                    <td width="3%">Ya</td>
+                    <td width="10%">-1</td>
+                    <td width="5%">Tidak</td>
+                    <td width="2%">-2</td>
+                    <td>
+                        <table align="right" style="margin-bottom: 0px;" width="35px" rules="all" border="1" id="example">
+                            <tr>
+                            <td height="35px"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="25%">Penyahihan (<i>Validasi</i>)</td>
+                    <td width="3%">Ya</td>
+                    <td width="10%">-1</td>
+                    <td width="5%">Tidak</td>
+                    <td width="2%">-2</td>
+                    <td>
+                        <table align="right" style="margin-bottom: 0px;" width="35px" rules="all" border="1" id="example">
+                            <tr>
+                            <td height="35px"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+
+
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--Akhir Halaman 87 moas-->
 </html>
 </body>
 
