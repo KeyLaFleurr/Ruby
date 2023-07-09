@@ -1878,6 +1878,204 @@
         </tr>
     </table>
     <!--Akhir Halaman 87 moas-->
+
+     <!--AWAL HALAMAN 88-->
+     <table align="center" width="80%" border="1" rules="all">
+         <!--AWAL TABEL 7.2.-->
+        <tr>
+            <td align="left"><b>7.2 Metode Analisiss:</b> 
+                <table align="center" width="96%" style="margin-bottom: 20px;" border="0" rules="none">
+                    <tr>
+                        <td width="40%">Deskriptif</td>
+                        <td>-1</td>
+                        <td width="17%" rowspan="3">
+                            <table align="right" style="margin-bottom: 20px;" width="33%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="50x"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Infersia</td>
+                        <td>-2</td>
+                    </tr>
+
+                    <tr>
+                        <td>Deskriptif dan Infersia</td>
+                        <td>-3</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--AKHIR TABEL 7.2.-->
+
+         <!--AWAL TABEL 7.3.-->
+        <tr>
+            <td align="left"><b>7.3. Unit Analisis:</b>
+                <table align="center" style="margin-bottom: 20px;" width="96%" border="0" rules="none">
+                    <tr>
+                        <td  width="25%">Individu</td>
+                        <td  width="11%">-1</td>
+                        <td  width="35%">Usaha/perusahaan</td>
+                        <td  width="3%">-4</td>
+                        <td  width="15%" rowspan="2">
+                            <table align="right" style="margin-bottom: 0px;" width="33%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="50x"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td  >Rumah Tangga</td>
+                        <td  >-2</td>
+                        <td >Lainya(sebutkan).............................................................</td>
+                        <td >-4</td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+         <!--AKHIR TABEL 7.3.-->
+
+         <!--AWAL TABEL 7.4.-->
+         <tr>
+            <td><b>7.4. Tingkat Penyajian Hasil Analisis:</b>
+                <table align="center" style="margin-bottom: 20px;" width="96%" border="0" rules="none">
+                    <tr>
+                        <td  width="25%">Nasional</td>
+                        <td  width="11%">-1</td>
+                        <td  width="35%">Kecamatan</td>
+                        <td  width="3%">-4</td>
+                        <td  width="15%" rowspan="3">
+                            <table align="right" style="margin-bottom: 7px;" width="33%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="50x"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td >Provinsi</td>
+                        <td >-2</td>
+                        <td >Lainya(sebutkan).............................................................</td>
+                        <td >-16</td>
+                    </tr>
+
+                    <tr>
+                        <td>Kabupaten/Kota</td>
+                        <td colspan="3" >
+                            -4
+                        </td>
+                    </tr>
+                    
+                </table>
+            </td>
+         </tr>
+        <!--AKHIR TABEL 7.4.-->
+
+          <!--HEADER-->
+          <tr>
+            <th class="mark" height="30px">VII. DISEMINASI HASIL</th>
+          </tr>
+          <!--HEADER-->
+
+          <!--AWAL TABEL 8.1.-->
+          <tr>
+            <td><b>8.1. Produk Kegiatan yang Tersedia untuk Umum:</b>
+                <table align="center" style="margin-bottom: 20px;" width="96%" border="0" rules="none">
+                    <tr>
+                        <td  width="28%">Tercetak(<i>hardcopy</i>)</td>
+                        <td  width="5%">Ya</td>
+                        <td  width="15%">-1</td>
+                        <td  width="6%">Tidak</td>
+                        <td  width="29%">-2</td>
+                        <td  width="%">
+                            <table align="right" style="margin-bottom: 0px;" width="24%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="35px"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Digital(<i>softcopy</i>)</td>
+                        <td>Ya</td>
+                        <td>-1</td>
+                        <td>Tidak</td>
+                        <td>-2</td>
+                        <td>
+                            <table align="right" style="margin-bottom: 0px;" width="24%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="35px"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Data Mikro</td>
+                        <td>Ya</td>
+                        <td>-1</td>
+                        <td>Tidak</td>
+                        <td>-2</td>
+                        <td>
+                            <table align="right" style="margin-bottom: 0px;" width="24%" rules="all" border="1" id="example">
+                                <tr>
+                                <td height="35px"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+          </tr>
+          <!--AKHIR TABEL 8.1.-->
+
+          <!--AWAL TABEL 8.2.-->
+          <tr>
+            <td><b>8.2. Jika pilihan R.8.1. kode 1, Rencana Rilis Produk Kegiatan:</b>
+                <table style="margin-left: 25px; margin-top: 5px;" width="60%" border="1" rules="all" id="example">
+                    <tr style="background-color: ghostwhite;">
+                        <td width="15%" height="25px"></td>
+                        <td align="center" width="15%">Tanggal</td>
+                        <td align="center" width="15%">Bulan</td>
+                        <td align="center" width="15%">Tahun</td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" height="25px">Tercetak</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" height="25px">Digital</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" height="25px">Data Mikro</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                </table>
+            </td>
+          </tr>
+          <!--AKHIR TABEL 8.2.-->
+    </table>
+     <!--AKHIR HALAMAN 88-->
 </html>
 </body>
 
