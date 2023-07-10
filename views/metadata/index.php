@@ -17,7 +17,13 @@
 
       .ms-keg {
         margin-left: 83%;
-        width: 90px;
+        width: 70px;
+        height: 30px;  
+      }
+
+      .ms-kegi {
+        margin-left: 90%;
+        width: 100px;
         height: 30px;  
       }
 
@@ -1438,43 +1444,49 @@
   <!--AWAL MS VARIABEL-->
 
 
-
-  <table style="margin-top: 20px;"  bgcolor="gainsboro" border="1" align="center" rules="all" width="90%">
+  <img src="logo.png" class="image">
+        <table rules="all" border="1" class="ms-kegi"> 
+          <th>MS-Var</th>
+        </table>
+        <h1 align="center" >METADATA STATISTIK</h1>
+        <h1 align="center" >KEGIATAN</h1>
+        
+  <table style="margin-top: 20px;"  bgcolor="gainsboro" border="1" align="center" rules="all" width="100%">
         <tr>
             <td align="center">Keterangan Kegiatan Statistik</td>
         </tr>
     </table>
 
-  <table border="1" align="center" rules="all" width="90%">
+  <table border="1" align="center" rules="all" width="100%">
         <tr>
-            <td width="10%" align="center">Nama Kegiatan</td>
+            <td width="10%" align="center"><b>Nama Kegiatan</td>
             <td width="40%"></td>
-            <td rowspan="2" width="10%" align="center">Penyelenggara</td>
+            <td rowspan="2" width="10%" align="center"><br><b>Penyelenggara</td>
             <td rowspan="2" width="40%">
                 <table border="1" rules="none" width="100%" align="center">
                     <tr>
                         <td width="5%"></td>
-                        <td width="25%">Instansi</td>
-                        <td width="65%">: _____________________________________</td>
+                        <td width="25%"><b>Instansi</td>
+                        <td width="65%">: <hr></td>
                         <td width="5%"></td>
                     </tr>
                     <tr>
                         <td width="5%"></td>
-                        <td width="25%">Unit Kerja Eselon I</td>
-                        <td width="65%">: _____________________________________</td>
+                        <td width="25%"><b>Unit Kerja Eselon I</td>
+                        <td width="65%">: <hr></td>
                         <td width="5%"></td>
                     </tr>
                     <tr>
                         <td width="5%"></td>
-                        <td width="35%">Unit Kerja Eselon II</td>
-                        <td width="55%">: _____________________________________</td>
+                        <td width="35%"><b>Unit Kerja Eselon II</td>
+                        <td width="55%">: <hr></td>
                         <td width="5%"></td>
                     </tr>
 
                     <tr>
                         <td width="5%"></td>
-                        <td width="25%">Unit Kerja Eselon III</td>
-                        <td width="65%">: _____________________________________</td>
+                        <td width="25%"><b>Unit Kerja Eselon III</td>
+                        <td width="65%">: <hr></td>
                         <td width="5%"></td>
                     </tr></tr>
                 </table>
@@ -1482,24 +1494,24 @@
         </tr>
 
         <tr>
-            <td align="center">Kode Kegiatan <br> (diisi oleh petugas)</td>
-            <td>1</td>
+            <td align="center"><b>Kode Kegiatan <br><b> (diisi oleh petugas)</td>
+            <td></td>
         </tr>
         
     </table>
-    <table border="1" align="center" rules="all" width="90%" height="2%">
+    <table border="1" align="center" rules="all" width="100%" height="2%">
         <tr>
             <td align="center"></td>
         </tr>
     </table>
 
-    <table border="1" align="center" rules="all" width="90%" height="2%">
+    <table border="1" align="center" rules="all" width="100%" height="2%">
         <tr>
             <td bgcolor="gainsboro" align="center" width="2%"><b>No</b></td>
-            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Nama Variabel</b></td>
+            <td bgcolor="gainsboro" align="center" width="8%"><b>Nama Variabel</b></td>
             <td bgcolor="gainsboro" align="center" width="7.5%"><b>Alias</b></td>
             <td bgcolor="gainsboro" align="center" width="7.5%"><b>Konsep</b></td>
-            <td bgcolor="gainsboro" align="center" width="16%"><b>Definisi</b></td>
+            <td bgcolor="gainsboro" align="center" width="15.5%"><b>Definisi</b></td>
             <td bgcolor="gainsboro" align="center" width="7.5%"><b>Referensi Pemilihan</b></td>
             <td bgcolor="gainsboro" align="center" width="7.5%"><b>Referensi Waktu</b></td>
             <td bgcolor="gainsboro" align="center" width="7.5%"><b>Tipe Data</b></td>
