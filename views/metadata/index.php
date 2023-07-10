@@ -879,27 +879,27 @@
                   </tr>
 
                   <tr>
-                    <td>Multi Stage Sampling</td>
+                    <td>Quota Sampling</td>
                     <td>-6</td>
                   </tr>
 
                   <tr>
-                    <td>Multi Stage Sampling</td>
+                    <td>Accidental Sampling</td>
                     <td>-7</td>
                   </tr>
 
                   <tr>
-                    <td>Multi Stage Sampling</td>
+                    <td>Purposive Sampling</td>
                     <td>-8</td>
                   </tr>
 
                   <tr>
-                    <td>Multi Stage Sampling</td>
+                    <td>Snowball Sampling</td>
                     <td>-9</td>
                   </tr>
 
                   <tr>
-                    <td>Multi Stage Sampling</td>
+                    <td>Saturation Sampling</td>
                     <td>-10</td>
                   </tr>
 
