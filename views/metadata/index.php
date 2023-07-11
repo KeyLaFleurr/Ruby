@@ -17,7 +17,13 @@
 
       .ms-keg {
         margin-left: 83%;
-        width: 90px;
+        width: 70px;
+        height: 30px;  
+      }
+
+      .ms-kegi {
+        margin-left: 90%;
+        width: 100px;
         height: 30px;  
       }
 
@@ -1429,7 +1435,164 @@
     </table>
           
         </table>
+
+
+
        <!--TABEL UTAMA-->
-  <!--AKHIR HALAMAN METADATA STATISTIK-->   
+  <!--AKHIR HALAMAN METADATA STATISTIK--> 
+  
+  <!--AWAL MS VARIABEL-->
+
+
+  <img src="logo.png" class="image">
+        <table rules="all" border="1" class="ms-kegi"> 
+          <th>MS-Var</th>
+        </table>
+        <h1 align="center" >METADATA STATISTIK</h1>
+        <h1 align="center" >KEGIATAN</h1>
+        
+  <table style="margin-top: 20px;"  bgcolor="gainsboro" border="1" align="center" rules="all" width="100%">
+        <tr>
+            <td align="center">Keterangan Kegiatan Statistik</td>
+        </tr>
+    </table>
+
+  <table border="1" align="center" rules="all" width="100%">
+        <tr>
+            <td width="10%" align="center"><b>Nama Kegiatan</td>
+            <td width="40%"></td>
+            <td rowspan="2" width="10%" align="center"><br><b>Penyelenggara</td>
+            <td rowspan="2" width="40%">
+                <table border="1" rules="none" width="100%" align="center">
+                    <tr>
+                        <td width="5%"></td>
+                        <td width="25%"><b>Instansi</td>
+                        <td width="65%">: <hr></td>
+                        <td width="5%"></td>
+                    </tr>
+                    <tr>
+                        <td width="5%"></td>
+                        <td width="25%"><b>Unit Kerja Eselon I</td>
+                        <td width="65%">: <hr></td>
+                        <td width="5%"></td>
+                    </tr>
+                    <tr>
+                        <td width="5%"></td>
+                        <td width="35%"><b>Unit Kerja Eselon II</td>
+                        <td width="55%">: <hr></td>
+                        <td width="5%"></td>
+                    </tr>
+
+                    <tr>
+                        <td width="5%"></td>
+                        <td width="25%"><b>Unit Kerja Eselon III</td>
+                        <td width="65%">: <hr></td>
+                        <td width="5%"></td>
+                    </tr></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center"><b>Kode Kegiatan <br><b> (diisi oleh petugas)</td>
+            <td></td>
+        </tr>
+        
+    </table>
+    <table border="1" align="center" rules="all" width="100%" height="2%">
+        <tr>
+            <td align="center"></td>
+        </tr>
+    </table>
+
+    <table border="1" align="center" rules="all" width="100%" height="2%">
+        <tr>
+            <td bgcolor="gainsboro" align="center" width="2%"><b>No</b></td>
+            <td bgcolor="gainsboro" align="center" width="8%"><b>Nama Variabel</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Alias</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Konsep</b></td>
+            <td bgcolor="gainsboro" align="center" width="15.5%"><b>Definisi</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Referensi Pemilihan</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Referensi Waktu</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Tipe Data</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Klasifikasi Isian</b></td>
+            <td bgcolor="gainsboro" align="center" width="7.5%"><b>Aturan Validasi</b></td>
+            <td bgcolor="gainsboro" align="center" width="15%"><b>Kalimat Pertanyaaan</b></td>
+            <td bgcolor="gainsboro" align="center" width="7%"><b>Apakah Kolom (2) Dapat Di Akses Umum?</b>
+                <table border="0" width="100%" rules="none">
+                    <tr>
+                        <td>Ya</td>
+                        <td>-1</td>
+                    </tr>
+                    <tr>
+                        <td>Tidak</td>
+                        <td>-2</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+             <td align="center">(1)</td>
+             <td align="center">(2)</td>
+             <td align="center">(3)</td>
+             <td align="center">(4)</td>
+             <td align="center">(5)</td>
+             <td align="center">(6)</td>
+             <td align="center">(7)</td>
+             <td align="center">(8)</td>
+             <td align="center">(9)</td>
+             <td align="center">(10)</td>
+             <td align="center">(11)</td>
+             <td align="center">(12)</td> 
+        </tr>
+
+        <tr>
+            <td align="center">1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td align="center">2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td align="center">3</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+  <!--AKHIR MS VARIABEL-->
 </body>
 </html>
