@@ -24,7 +24,8 @@
       .ms-kegi {
         margin-left: 90%;
         width: 100px;
-        height: 30px;  
+        height: 20px;  
+        font-size: 15px;
       }
 
       .tahun {
@@ -35,6 +36,15 @@
       .bg-header {
         background-color: gainsboro;
       }
+
+      .bg {
+            background-color: gainsboro;
+        }
+
+        .fontsize {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 13px;
+        }
 
     </style>
 </head>
@@ -1443,21 +1453,20 @@
   
   <!--AWAL MS VARIABEL-->
 
-
-  <img src="logo.png" class="image">
+  <img src="logo.png" style="margin-left: 5px; width: 150px; margin-top: 20px;">
         <table rules="all" border="1" class="ms-kegi"> 
           <th>MS-Var</th>
         </table>
-        <h1 align="center" >METADATA STATISTIK</h1>
-        <h1 align="center" >KEGIATAN</h1>
+        <h1 align="center" style="font-size: 20px">METADATA STATISTIK</h1>
+        <h1 align="center" style="font-size: 20px">VARIABEL</h1>
         
   <table style="margin-top: 20px;"  bgcolor="gainsboro" border="1" align="center" rules="all" width="100%">
         <tr>
-            <td align="center">Keterangan Kegiatan Statistik</td>
+            <td align="center" class="fontsize"><b>Keterangan Kegiatan Statistik</b></td>
         </tr>
     </table>
 
-  <table border="1" align="center" rules="all" width="100%">
+  <table border="1" align="center" rules="all" width="100%" class="fontsize">
         <tr>
             <td width="10%" align="center"><b>Nama Kegiatan</td>
             <td width="40%"></td>
@@ -1505,7 +1514,7 @@
         </tr>
     </table>
 
-    <table border="1" align="center" rules="all" width="100%" height="2%">
+    <table border="1" align="center" rules="all" width="100%" height="2%" class="fontsize">
         <tr>
             <td bgcolor="gainsboro" align="center" width="2%"><b>No</b></td>
             <td bgcolor="gainsboro" align="center" width="8%"><b>Nama Variabel</b></td>
@@ -1594,5 +1603,168 @@
     </table>
 
   <!--AKHIR MS VARIABEL-->
+
+  <!--Awal MS INDIKATOR-->
+  <img src="logo.png" style="margin-left: 5px; width: 150px; margin-top: 20px;">
+        <table rules="all" border="1" class="ms-kegi"> 
+          <th>MS-Ind</th>
+        </table>
+        <h1 align="center" style="font-size: 20px">METADATA STATISTIK</h1>
+        <h1 align="center" style="font-size: 20px">Indikator</h1>
+
+        <table border="1" rules="all" width="100%" class="fontsize">
+        <!--Tabel utama-->
+        <tr>
+            <th class="bg" height="20px" colspan="17">Keterangan Kegiatan Statistik</th>
+        </tr>
+
+        <tr>
+            <th width="14%" height="50px" colspan="3">Nama Kegiatan</th>
+            <td width="38%" colspan="6"></td>
+            <th width="14%" rowspan="2" colspan="3">Penyelenggara</th>
+            <td width="35%" rowspan="2" colspan=""><b>
+                <table border="0" rules="none" width="95%" align="center">
+                    <tr>
+                        <td width="35%">Instansi</td>
+                        <td>: __________________________________</td>
+                    </tr>
+
+                    <tr>
+                        <td>Unit Kerja Eselon I</td>
+                        <td>: __________________________________</td>
+                    </tr>
+
+                    <tr>
+                        <td>Unit Kerja Eselon II</td>
+                        <td>: __________________________________</td>
+                    </tr>
+
+                    <tr>
+                        <td>Unit Kerja Eselon III</td>
+                        <td>: __________________________________</td>
+                    </tr>
+
+                </table>
+            </b>
+            </td>
+        </tr>
+            <td height="50px" align="center" colspan="3"><b>Kode Kegiatan</b><br>(diisi oleh petugas)</td>
+            <td colspan="6"></td>
+            <tr>
+                <td height="10px" colspan="17"></td>
+            </tr>
+        </table>
+
+        <table border="1" rules="all" width="100%" height="" style="font-size: 11px;" class="font">
+
+        <tr class="bg">
+            <td height="65px" width="2%" align="center" rowspan="2"><b>No</b></td>
+            <td align="center" width="7%" rowspan="2"><b>Nama Indikator</b></td>
+            <td align="center" width="5%" rowspan="2"><b>Konsep</b></td>
+            <td align="center" width="5%" rowspan="2"><b>Definisi</b></td>
+            <td align="center" width="6%" rowspan="2"><b>Inierpelasi</b></td>
+            <td align="center" width="7%" rowspan="2"><b>Metode/Rumus <br> Perhitngan</b></td>
+            <td align="center" width="4%" rowspan="2"><b>Ukuran</b></td>
+            <td align="center" width="4%" rowspan="2"><b>Satuan</b></td>
+            <td align="center" width="6%" rowspan="2"><b>Klasifikasi <br> Penyajian</b></td>
+            <td align="center" width="6%" rowspan="2" style="padding-top: px;"><b>Apakah Kolom<br>(2) Indikator<br>Ketersediaan</b><br>Ya -1 <br> Tidak -2</td>
+            <td align="center" width="14%" colspan="2">Jika Kolom (10) berkode 1<br><b>Indikator Pembangun</b></td>
+            <td align="center" width="21%" colspan="3">Jika Kolom (10) berkode 2<br><b>Variabel Pembangun</b></td>
+            <td align="center"  rowspan="2" width="7%"><b>Level Estimasi </b></td>
+            <td align="center"  rowspan="2"><b>Jika Kolom (2) <br>Variabel Pembangun</b><br>Ya -1 <br> Tidak -2</td>
+        </tr>
+
+        <tr class="bg">
+            <td height="35px" align="center" width="7%"><b>Publikasi<br>Ketersediaan</b></td>
+            <td align="center" width="7%"><b>Nama</b></td>
+            <td align="center" width="7%"><b>Kegiatan <br> Penghasil</b></td>
+            <td align="center" width="7%"><b>Kode Keg.</b> <br> (diisi petugas)</td>
+            <td align="center" width="7%"><b>Nama</b></td>
+        </tr>
+
+        <tr align="center" class="bg">
+            <td height="12px">(1)</td>
+            <td>(2)</td>
+            <td>(3)</td>
+            <td>(4)</td>
+            <td>(5)</td>
+            <td>(6)</td>
+            <td>(7)</td>
+            <td>(8)</td>
+            <td>(9)</td>
+            <td>(10)</td>
+            <td>(11)</td>
+            <td>(12)</td>
+            <td>(13)</td>
+            <td>(14)</td>
+            <td>(15)</td>
+            <td>(16)</td>
+            <td>(17)</td>
+        </tr>
+
+        <tr>
+            <td height="10px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td height="10px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td height="10px"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <!--Tabel utama-->
+    </table>      
+
+  <!--Akhir MS INDIKATOR-->
 </body>
 </html>
